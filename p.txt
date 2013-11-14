@@ -1,7 +1,3 @@
 test
 raz dwa trzy
-<<<<<<< HEAD
 8
-=======
-osiem
->>>>>>> branch 'master' of https://github.com/pi71/Test.git
